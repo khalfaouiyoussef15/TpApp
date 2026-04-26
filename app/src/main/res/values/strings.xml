@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Application</string>
+    <string name="app_name">Be healthy</string>
+    <string name="app_desc">Cette application permet de calculer l’indice de Masse Corporelle (IMC)</string>
+    <string name="calcul_poids">Donnez votre poids</string>
+    <string name="calcul_taille">Donnez votre taille</string>
+    <string name="calcul_IMC">Calculer mon IMC</string>
 </resources>
